@@ -1,9 +1,13 @@
 # atom-antescofo-syntax theme
 
-Antescofo Theme for Atom Text Editor
+Antescofo Theme for Atom Text Editor.
+
 Antescofo : http://repmus.ircam.fr/antescofo
 
-This theme works with the Antescofo language package that will be published soon... 
+Atom : https://atom.io/
+
+
+This theme works with the Antescofo language package, an update will be published soon... 
 
 
 
