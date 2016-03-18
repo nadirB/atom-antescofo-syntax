@@ -2,12 +2,12 @@
   "name": "atom-antescofo-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Antescofo syntax theme for Atom text editor",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-antescofo-syntax",
+  "repository": "https://github.com/nadirB/atom-antescofo-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
