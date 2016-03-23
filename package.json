@@ -5,7 +5,9 @@
   "description": "Antescofo syntax theme for Atom text editor",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    ".asco",
+    ".asco.txt"
   ],
   "repository": "https://github.com/nadirB/atom-antescofo-syntax",
   "license": "MIT",

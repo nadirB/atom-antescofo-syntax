@@ -63,18 +63,23 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .comment {
-  color: @light-gray;
+  //color: @syntax-comment-colo;
+  color: (@very-light-gray);
+
 }
 
 .keyword {
   color: @purple;
 
   &.control {
-    color: @purple;
+
+    color: @syntax-event-color;
+
   }
 
   &.operator {
-    color: @syntax-text-color;
+    //color: @syntax-text-color;
+    color: @orange;
   }
 
   &.other.special-method {
@@ -98,7 +103,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.numeric {
-    color: @orange;
+    color: @syntax-numeric-color;
   }
 
   &.other.color {
