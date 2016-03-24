@@ -19,4 +19,4 @@ This theme works with the Antescofo language package : no official release yet..
 - Open .asco or .asco.txt file
 - Choose Antescofo in the menu at the bottom right of the workspace
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-screen-caps.png)
