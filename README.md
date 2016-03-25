@@ -36,6 +36,6 @@ To customize Atom when loading Antescofo files , you need only manually edit you
         "score.txt"
       ]</code>
       
-      
+    <br>  
 
 ![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
