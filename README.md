@@ -7,7 +7,9 @@ Antescofo : http://repmus.ircam.fr/antescofo
 Atom : https://atom.io/
 
 
-This theme works with the Antescofo language package : no official release yet...
+This theme works with the Antescofo language package developped by :
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+- Clément PGP: https://github.com/ClementPGP
 
 # Install : 
 
@@ -26,13 +28,13 @@ To customize Atom when loading Antescofo files , you need only manually edit you
 - Open it using the Application: Open Your Config command from the Command Palette. 
 - Add this to your configuration file under the *.core section:
 
-customFileTypes:
+<code>customFileTypes:
       "source.antescofo": [
         "asco"
         "asco.txt"
         "score"
         "score.txt"
-      ]
+      ]</code>
       
       
 
