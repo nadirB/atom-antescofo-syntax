@@ -33,5 +33,7 @@ customFileTypes:
         "score"
         "score.txt"
       ]
+      
+      
 
-![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-screen-caps.png)
+![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
