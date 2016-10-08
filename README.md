@@ -7,9 +7,11 @@ Antescofo : http://repmus.ircam.fr/antescofo
 Atom : https://atom.io/
 
 
-This theme works with the Antescofo language package : no official release yet...
+This theme works with the Antescofo language package developped by :
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+- Clément PGP: https://github.com/ClementPGP
 
-# Install : 
+# Install :
 
 - Go to Atom/Settings(preferences)/Install/Theme/  
 - Search for atom-antescofo-syntax
@@ -21,4 +23,5 @@ This theme works with the Antescofo language package : no official release yet..
 
 
 
-![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-screen-caps.png)
+
+![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
