@@ -19,19 +19,6 @@ This theme works with the Antescofo language package : no official release yet..
 - Open .asco or .asco.txt file
 - Choose Antescofo in the menu at the bottom right of the workspace
 
-# Antescofo File Recognition :
 
-To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
-
-- Open it using the Application: Open Your Config command from the Command Palette. 
-- Add this to your configuration file under the *.core section:
-
-customFileTypes:
-      "source.antescofo": [
-        "asco"
-        "asco.txt"
-        "score"
-        "score.txt"
-      ]
 
 ![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-screen-caps.png)
