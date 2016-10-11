@@ -1,4 +1,4 @@
-# atom-antescofo-syntax theme
+# atom-antescofo-syntax 
 
 An Antescofo Theme for Atom Text Editor.
 
