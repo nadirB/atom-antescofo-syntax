@@ -59,8 +59,8 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadirB/atom-antescofo-syntax.git"
+    "url": "https://github.com/nadirB/atom-antescofo-syntax"
   },
   "theme": "syntax",
-  "version": "1.0.4-beta"
+  "version": "1.0-beta"
 }
