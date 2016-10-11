@@ -2,13 +2,11 @@
 
 An Antescofo Theme for Atom Text Editor.
 
-![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
+![](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
 
 
 
 Antescofo : http://repmus.ircam.fr/antescofo
-
-Atom : https://atom.io/
 
 
 This theme works with the atom-antescofo package :  
