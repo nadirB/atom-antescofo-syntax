@@ -1,9 +1,8 @@
-# atom-antescofo-syntax 
+# atom-antescofo-syntax
 
 An Antescofo Theme for Atom Text Editor.
 
 ![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
-
 
 
 
