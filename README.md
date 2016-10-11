@@ -2,7 +2,7 @@
 
 An Antescofo Theme for Atom Text Editor.
 
-![](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
+![](https://github.com/nadirB/atom-antescofo-syntax/screenshots/blob/master/atom-antescofo-screen-caps.png)
 
 
 
