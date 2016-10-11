@@ -1,27 +1,39 @@
 # atom-antescofo-syntax theme
 
-Antescofo Theme for Atom Text Editor.
+An Antescofo Theme for Atom Text Editor.
+
+![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
+
+
+
 
 Antescofo : http://repmus.ircam.fr/antescofo
 
 Atom : https://atom.io/
 
 
-This theme works with the Antescofo language package developped by :
+This theme works with the atom-antescofo package :  
+
+
+Developped by :
+
 - Pierre Donat-Bouillud:  https://github.com/programLyrique
 - Clément PGP: https://github.com/ClementPGP
 
-# Install :
+## Install
 
-- Go to Atom/Settings(preferences)/Install/Theme/  
-- Search for atom-antescofo-syntax
-- Click intall
-- Go to Settings/Theme
-- Choose Atom Antescofo in the Syntax theme contextual menu
-- Open .asco or .asco.txt file
-- Choose Antescofo in the menu at the bottom right of the workspace
+You can install this theme in your [Atom theme settings] (http://flight-manual.atom.io/using-atom/sections/atom-packages).
 
 
+## Usage
+
+After installation, you can enable this theme in your [Atom theme settings](http://flight-manual.atom.io/using-atom/sections/atom-packages/#_atom_themes).
 
 
-![A screenshot of your theme](https://github.com/nadirB/atom-antescofo-syntax/blob/master/atom-antescofo-screen-caps.png)
+## Contributing
+
+For any bugs, fill reports with the [generator](https://github.com/nadirB/atom-antescofo-syntax/issues). For shipping a new version, an update warning will appear in the Atom workspace or in Atom's settings
+
+## License
+
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/)
