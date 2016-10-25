@@ -9,13 +9,10 @@ An Antescofo Theme for Atom Text Editor.
 Antescofo : http://repmus.ircam.fr/antescofo
 
 
-This theme works with the atom-antescofo package :  
+This theme works with the atom-antescofo package developped mainly by :
 
-
-Developped by :
-
-- Pierre Donat-Bouillud:  https://github.com/programLyrique
 - Clément PGP: https://github.com/ClementPGP
+
 
 ## Install
 
