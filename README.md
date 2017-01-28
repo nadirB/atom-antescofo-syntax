@@ -9,7 +9,7 @@ An Antescofo Theme for Atom Text Editor.
 Antescofo : http://repmus.ircam.fr/antescofo
 
 
-This theme works with the atom-antescofo package developped mainly by :
+This theme works with the atom-antescofo package co-developped with :
 
 - Clément PGP: https://github.com/ClementPGP
 
