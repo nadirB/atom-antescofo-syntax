@@ -52,7 +52,7 @@
     ".asco.txt"
   ],
   "license": "MIT",
-  "name": "",
+  "name": "atom-antescofo-syntax",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
