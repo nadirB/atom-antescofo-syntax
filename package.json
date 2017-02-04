@@ -38,8 +38,8 @@
   "bugs": {
     "url": "https://github.com/nadirB/atom-antescofo-syntax/issues"
   },
-  "dependencies": {},
-  "description": "Antescofo syntax theme for Atom text editor",
+  "dependencies": {"atom-antescofo"},
+  "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
