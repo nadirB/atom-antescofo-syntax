@@ -38,9 +38,7 @@
   "bugs": {
     "url": "https://github.com/nadirB/atom-antescofo-syntax/issues"
   },
-  "dependencies": {
-    "osc-js": "^1.0.1"
-  },
+  "dependencies": {},
   "description": "Antescofo syntax theme for Atom text editor",
   "devDependencies": {},
   "engines": {
@@ -54,7 +52,7 @@
     ".asco.txt"
   ],
   "license": "MIT",
-  "name": "osc_com",
+  "name": "",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
