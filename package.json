@@ -39,6 +39,7 @@
     "url": "https://github.com/nadirB/atom-antescofo-syntax/issues"
   },
   "dependencies": {"atom-antescofo": "^1.0.5-beta"},
+  "package-deps": ["atom-antescofo"],
   "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
   "engines": {
