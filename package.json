@@ -44,7 +44,7 @@
   "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
   "package-deps": [
-    "atom-antescofo"
+    "atom-antescofo@1.0.5-beta"
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -57,7 +57,7 @@
     ".asco.txt"
   ],
   "license": "MIT",
-  "name": "v1.0.8-beta",
+  "name": "atom-antescofo-syntax",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
