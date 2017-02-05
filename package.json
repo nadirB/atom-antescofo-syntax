@@ -41,11 +41,11 @@
   "dependencies": {
     "atom-antescofo": "^1.0.5-beta"
   },
+  "description": "Antescofo syntax grammar core to activate syntax highlighting",
+  "devDependencies": {},
   "package-deps": [
     "atom-antescofo"
   ],
-  "description": "Antescofo syntax grammar core to activate syntax highlighting",
-  "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
