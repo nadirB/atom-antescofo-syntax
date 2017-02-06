@@ -41,7 +41,7 @@
   "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
   "dependencies": {
-    "atom-package-deps":"*"
+    "atom-package-deps": "*"
   },
   "package-deps": [
     "atom-antescofo"
@@ -64,7 +64,7 @@
     "url": "git+https://github.com/nadirB/atom-antescofo-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.0.11-beta",
+  "version": "1.0.12-beta",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
