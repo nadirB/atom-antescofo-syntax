@@ -1,4 +1,26 @@
 {
+  "name": "atom-antescofo-syntax",
+  "description": "Antescofo syntax grammar core to activate syntax highlighting",
+  "author": "nadir B.",
+  "version": "1.0.12-beta",
+  "license": "MIT",
+  "theme": "syntax",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadirB/atom-antescofo-syntax.git"
+  },
+  "homepage": "https://github.com/nadirB/atom-antescofo-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    ".asco",
+    ".asco.txt"
+  ],
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "_args": [
     [
       {
@@ -38,7 +60,6 @@
   "bugs": {
     "url": "https://github.com/nadirB/atom-antescofo-syntax/issues"
   },
-  "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
   "dependencies": {
     "atom-package-deps": "*"
@@ -48,26 +69,5 @@
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "homepage": "https://github.com/nadirB/atom-antescofo-syntax#readme",
-  "keywords": [
-    "syntax",
-    "theme",
-    ".asco",
-    ".asco.txt"
-  ],
-  "license": "MIT",
-  "name": "atom-antescofo-syntax",
-  "optionalDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nadirB/atom-antescofo-syntax.git"
-  },
-  "theme": "syntax",
-  "version": "1.0.12-beta",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "nadir B."
+  }
 }
