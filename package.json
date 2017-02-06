@@ -2,7 +2,7 @@
   "name": "atom-antescofo-syntax",
   "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "author": "nadir B.",
-  "version": "1.0.13-beta",
+  "version": "1.0.14-beta",
   "license": "MIT",
   "theme": "syntax",
   "main": "index.js",
