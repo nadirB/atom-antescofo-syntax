@@ -40,6 +40,9 @@
   },
   "description": "Antescofo syntax grammar core to activate syntax highlighting",
   "devDependencies": {},
+  "dependencies": {
+    "atom-package-deps":"*"
+  },
   "package-deps": [
     "atom-antescofo"
   ],
