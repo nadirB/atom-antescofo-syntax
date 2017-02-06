@@ -61,7 +61,7 @@
     "url": "git+https://github.com/nadirB/atom-antescofo-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.0.10",
+  "version": "1.0.11-beta",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
