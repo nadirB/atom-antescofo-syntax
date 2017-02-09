@@ -1,6 +1,6 @@
 {
   "name": "atom-antescofo-syntax",
-  "description": "Antescofo syntax grammar core to activate syntax highlighting",
+  "description": "Antescofo Syntax Theme for Atom Text Editor",
   "author": "nadir B.",
   "version": "1.0.14-beta",
   "license": "MIT",
