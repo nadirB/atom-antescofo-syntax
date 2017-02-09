@@ -2,7 +2,7 @@
   "name": "atom-antescofo-syntax",
   "description": "Antescofo Syntax Theme for Atom Text Editor",
   "author": "nadir B.",
-  "version": "1.0.17-beta",
+  "version": "1.0.15-beta",
   "license": "MIT",
   "theme": "syntax",
   "main": "index.js",
